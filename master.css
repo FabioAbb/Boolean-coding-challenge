@@ -1,0 +1,114 @@
+body {
+  background-image: url('background.jpg');
+  background-size: 180vh,180vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: top;
+  }
+
+
+.container{
+  width: 760px;
+  height: 760px;
+  background: black;
+  position: absolute;
+  left: 300px;
+  bottom: 60px;
+  opacity: 0.25;
+  border-radius: 20px;
+  margin-top: 70px;
+  }
+
+.logo{
+  background-position: center;
+  margin-left: 521px;
+  margin-top: 84px;
+}
+
+h1{
+  color: rgb(20,250,0);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  font-weight; 350;
+  text-align: center;
+  Line-height: 7px;
+}
+
+nav{
+  background-color: rgb(0,235,11);
+  font-size: 25px;
+  text-align: center;
+  margin-left: 360px;
+  margin-right: 360px;
+  margin-bottom: 0px;
+}
+
+a{
+  background-color: white;
+  color: black;
+  font-size: 10px;    border-radius: 1px;
+  padding: 1px;
+}
+
+h3{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;  font-size: 15px;
+  margin-left: 360px;
+  margin-top: 18px;
+  margin-bottom: 3px;
+}
+
+p{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;  font-size: 11px;
+  margin-left: 360px;
+  margin-top: 4px;
+  margin-bottom: 1px;
+}
+
+h6{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;  font-size: 11px;
+  margin-left: 360px;
+  margin-top: 4px;
+  margin-bottom: 1px;
+}
+
+
+.primo{
+  color: rgb(240,220,115);
+  font-family: 'Ubuntu', sans-serif;  font-size: 17px;
+  margin-left: 360px;
+  margin-right: 770px;
+  margin-top: 2px;
+  width: auto;
+  height: auto;
+  background-color: rgb(240,220,115);
+  border-radius: 4px;
+}
+
+.secondo{
+  color: rgb(0,200,54);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 17px;
+  margin-left: 360px;
+  margin-right: 612px;
+  margin-top: 2px;
+  width: auto;
+  height: auto;
+  background-color: rgb(0,200,54);
+  border-radius: 4px;
+}
+
+.terzo{
+  color: rgb(200,40,54);
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 15px;
+  margin-left: 360px;
+  margin-right: 895px;
+  margin-top: 2px;
+  width: auto;
+  height: auto;
+  background-color: rgb(200,40,54);
+  border-radius: 4px;
+}
